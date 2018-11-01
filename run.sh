@@ -21,6 +21,3 @@ echo "
 <body>
 	<h1>This page is called A.html</h1>
 </body>" >> /var/www/html/A/A.html
-
-cat /var/www/html/index.html
-cat /var/www/html/A/A.html
